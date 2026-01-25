@@ -22,8 +22,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/akheron/jansson.git
-        tag: v2.14.1
-        commit: ed5cae4ed0621ef409510f94270c9f8f263736d0
+        tag: v2.15.0
+        commit: 4a9a6db73d5dc553164992e87426502ab2d54512
         x-checker-data:
           type: json
           url: https://api.github.com/repos/akheron/jansson/releases/latest
