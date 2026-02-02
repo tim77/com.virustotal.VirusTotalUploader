@@ -19,6 +19,9 @@
     </categories>
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>Apache-2.0</project_license>
+    <developer id="com.virustotal">
+        <name>VirusTotal</name>
+    </developer>
     <url type="homepage">https://www.virustotal.com/ru/documentation/desktop-applications/linux-oss-uploader</url>
     <url type="bugtracker">https://github.com/VirusTotal/qt-virustotal-uploader/issues</url>
     <launchable type="desktop-id">com.virustotal.VirusTotalUploader.desktop</launchable>
